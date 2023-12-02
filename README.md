@@ -9,4 +9,4 @@ Sistem penjualan dengan framework laravel 9 dengan berbagai fitur untuk memudahk
 
 
 # Structure
-![Screenshot (495)](https://github.com/ailsyaputri3/Sistem-Penjualan/assets/152596831/dc6bd8dd-7492-4cd4-87a3-f64cb53eb2f4)
+![Screenshot (496)](https://github.com/ailsyaputri3/Sistem-Penjualan/assets/152596831/f5d07cac-2463-4aa8-9e34-6b822a31ee8a)
