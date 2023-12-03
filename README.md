@@ -2,6 +2,9 @@
 Sistem penjualan dengan framework laravel 9 dengan berbagai fitur untuk memudahkan pencatatan penjualan dengan pelanggan
 
 # Flowchart
+<img width="356" alt="IMG_0548" src="https://github.com/ailsyaputri3/Sistem-Penjualan/assets/152596831/be863f97-773a-4367-9d03-287b1a972a65">
+
+# ERD
 
 
 # Database
